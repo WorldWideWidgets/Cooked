@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1748792656
+  lastShownTimestamp: 1748888794
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1748792656
+  checkedLastUpdateTimestamp: 1748888794
   lastQOTDResponse:
     questionId: 186
     questionText: What is the main difference between the out and ref keywords? (behaviour
@@ -28,20 +28,22 @@ MonoBehaviour:
     answerC: No difference
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1748792656
+  lastQotdTimestamp: 1748888794
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/ultimateOverview70_6FreeUpdate.png
     topText: Learn how to use 70 Tools and Features! (Unity 6 Updated)
     topLink: ultimateunityoverview
     bottomText: My 10+ Years of C# Knowledge in 1 Course!
     bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1748792656
+  lastDynamicHeaderTimestamp: 1748888794
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1748792656
+  websiteLatestMessageTimestamp: 1748888794
   websiteLatestVideos:
     videos:
+    - youTubeId: U5Wolv65yK8
+      title: Dev followed my FREE course, then made $150,000!
     - youTubeId: NzyU-WuXfk4
       title: TOP 20 Visual Assets to INSPIRE YOU! (MAY 2025)
     - youTubeId: iB1_PBY-BCQ
@@ -49,6 +51,4 @@ MonoBehaviour:
         Update)
     - youTubeId: 29ejb-nzO1A
       title: Is Schedule I a LOW EFFORT Game?
-    - youTubeId: YCj1VXyxtwI
-      title: Was I WRONG? Do Gamers really NOT care about AI?
-  websiteLatestVideosTimestamp: 1748792656
+  websiteLatestVideosTimestamp: 1748888794
