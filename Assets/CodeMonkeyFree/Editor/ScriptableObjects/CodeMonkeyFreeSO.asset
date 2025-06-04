@@ -14,32 +14,36 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1748888794
+  lastShownTimestamp: 1748976469
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1748888794
+  checkedLastUpdateTimestamp: 1748976469
   lastQOTDResponse:
-    questionId: 186
-    questionText: What is the main difference between the out and ref keywords? (behaviour
-      inside the function)
-    answerA: out doesn't need to be set; ref MUST be set
-    answerB: out MUST be set; ref doesn't need to be set
-    answerC: No difference
+    questionId: 187
+    questionText: 'Is this valid code?
+
+      <p>Vector3? targetPosition = new Vector3(10,
+      0, 0);</p>
+
+      <p>Vector3 moveToPosition = targetPosition;</p>'
+    answerA: Yes
+    answerB: No
+    answerC: 
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1748888794
+  lastQotdTimestamp: 1748976469
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/ultimateOverview70_6FreeUpdate.png
     topText: Learn how to use 70 Tools and Features! (Unity 6 Updated)
     topLink: ultimateunityoverview
     bottomText: My 10+ Years of C# Knowledge in 1 Course!
     bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1748888794
+  lastDynamicHeaderTimestamp: 1748976469
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1748888794
+  websiteLatestMessageTimestamp: 1748976469
   websiteLatestVideos:
     videos:
     - youTubeId: U5Wolv65yK8
@@ -51,4 +55,4 @@ MonoBehaviour:
         Update)
     - youTubeId: 29ejb-nzO1A
       title: Is Schedule I a LOW EFFORT Game?
-  websiteLatestVideosTimestamp: 1748888794
+  websiteLatestVideosTimestamp: 1748976469
