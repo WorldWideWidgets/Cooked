@@ -14,45 +14,47 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1748976469
+  lastShownTimestamp: 1749683406
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1748976469
+  checkedLastUpdateTimestamp: 1749683406
   lastQOTDResponse:
-    questionId: 187
-    questionText: 'Is this valid code?
+    questionId: 190
+    questionText: 'What is the value stored in percentage?
 
-      <p>Vector3? targetPosition = new Vector3(10,
-      0, 0);</p>
+      <p>int health =
+      25;</p>
 
-      <p>Vector3 moveToPosition = targetPosition;</p>'
-    answerA: Yes
-    answerB: No
-    answerC: 
+      <p>int healthMax = 100;</p>
+
+      <p>float percentage = health
+      / healthMax;</p>'
+    answerA: 0.25f
+    answerB: 0
+    answerC: 2.5f
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1748976469
+  lastQotdTimestamp: 1749683406
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/ultimateOverview70_6FreeUpdate.png
     topText: Learn how to use 70 Tools and Features! (Unity 6 Updated)
     topLink: ultimateunityoverview
     bottomText: My 10+ Years of C# Knowledge in 1 Course!
     bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1748976469
+  lastDynamicHeaderTimestamp: 1749683406
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1748976469
+  websiteLatestMessageTimestamp: 1749683406
   websiteLatestVideos:
     videos:
+    - youTubeId: jPXFBmfInRQ
+      title: YOU can CHANGE the FUTURE of Unity!
+    - youTubeId: IPwIpYP3dvg
+      title: 70 Unity Tools and Features in 16 MINUTES!
     - youTubeId: U5Wolv65yK8
       title: Dev followed my FREE course, then made $150,000!
     - youTubeId: NzyU-WuXfk4
       title: TOP 20 Visual Assets to INSPIRE YOU! (MAY 2025)
-    - youTubeId: iB1_PBY-BCQ
-      title: Make BETTER games FASTER, Learn 70 Unity Tools and Features! (6th FREE
-        Update)
-    - youTubeId: 29ejb-nzO1A
-      title: Is Schedule I a LOW EFFORT Game?
-  websiteLatestVideosTimestamp: 1748976469
+  websiteLatestVideosTimestamp: 1749683406
