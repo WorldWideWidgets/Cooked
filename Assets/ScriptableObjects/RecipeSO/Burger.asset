@@ -9,9 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2d306ff2f10643047a5d9cda6583eb50, type: 3}
-  m_Name: CheeseSlices
+  m_Script: {fileID: 11500000, guid: 3e3a42b20b64a4a469dd9f42dc8f561c, type: 3}
+  m_Name: Burger
   m_EditorClassIdentifier: 
-  prefab: {fileID: 1176192699504475753, guid: abc72c29bb621b94590680c0b8d839f2, type: 3}
-  sprite: {fileID: 21300000, guid: 549cb4f2b86d1b84d8cd41c1cfde26c8, type: 3}
-  objectName: Cheese Slices
+  kitchenObjectSOList:
+  - {fileID: 11400000, guid: f7ef89d53d504f640989774c346b691c, type: 2}
+  - {fileID: 11400000, guid: 6e919238736ec3542bc53eba94eb7d9b, type: 2}
+  recipeName: Burger
