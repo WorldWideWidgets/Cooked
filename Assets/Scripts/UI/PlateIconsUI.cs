@@ -33,7 +33,7 @@ public class PlateIconsUI : MonoBehaviour
             Transform iconTransform = Instantiate(iconTemplate, this.transform);
             iconTransform.gameObject.SetActive(true);
             iconTransform.GetComponent<PlateIconsSingleUI>().SetKitchenObjectSO(kitchenObjectSO);
-            Debug.Log("PlateIconsUI: Added icon for " + kitchenObjectSO.objectName);
+            //Debug.Log("PlateIconsUI: Added icon for " + kitchenObjectSO.objectName);
         }
     }
 }
