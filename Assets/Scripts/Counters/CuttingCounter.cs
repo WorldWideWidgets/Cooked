@@ -5,6 +5,13 @@ using UnityEngine;
 public class CuttingCounter : BaseCounter, IHasProgress
 {
     public static event EventHandler OnAnyCut;
+
+    new public static void ResetStaticData()
+    {
+        OnAnyCut = null;
+    }
+
+
     // event to update bar image
     public event EventHandler<IHasProgress.OnProgressChangedEventArgs> OnProgressChanged;
 
